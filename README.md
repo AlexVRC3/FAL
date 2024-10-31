@@ -1,5 +1,5 @@
 # EJERCICIOS FAL 23-24
-Es todo lo que tengo del curso 23-24 con Ignacio, habrá cosas que esten mal y algunos enunciados que falten pero en general esta todo CORRECT en el juez excepto 1 o 2 ejercicios. Sobre las explicaciones y las especificaciones obviamente no están perfectas pero generalmente estan bien. Los enunciados que falten los podeis encontrar en wuolah en GII o GIS.
+Repositorio con todos los ejercicios de la asignatura FAL (Fundamentos de Algoritmia) del Grado de Ingeniería del Software pertenecientes al curso 23-24. Puede haber algunos ejercicios incorrectos aunque la mayoria dan correct en el juez. Sobre las explicaciones y las especificaciones obviamente no están perfectas pero generalmente estan bien. Los enunciados que falten los podeis encontrar en wuolah en GII o GIS.
 Extra - repaso
 EJ2 - iterativos
 EJ3 - recursión numericos
